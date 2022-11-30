@@ -1,5 +1,4 @@
 <h1 align="left">
-	<img src="https://i.imgur.com/GBOgfkc.png" width="24" height="24"/>
 	<b>Telescope</b>
 </h1>
 
